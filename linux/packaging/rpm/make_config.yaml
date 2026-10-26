@@ -1,0 +1,26 @@
+icon: assets/icons/icon.png
+summary: An application to stream Music
+group: Application/Multimedia
+vendor: dieegoleo
+packager: dieegoleo
+license: GPLv3
+url: https://github.com/dieegoleo/Velqi-Music-App
+
+requires:
+  - mpv-libs
+  - libappindicator
+
+display_name: Velqi
+
+keywords:
+  - Opensource
+  - Music
+  - Streaming
+  - Flutter
+
+generic_name: Music Application
+
+categories:
+  - Music
+
+startup_notify: true

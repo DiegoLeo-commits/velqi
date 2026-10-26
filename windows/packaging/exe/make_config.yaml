@@ -1,0 +1,10 @@
+app_id: B9F6E402-0CAE-4045-BDE6-14BD6C39C4EA
+publisher: Lupyther
+publisher_url: https://velqi.netlify.app
+display_name: Velqi
+create_desktop_icon: true
+privileges_required: lowest
+script_template: inno_setup.iss
+locales:
+  - en
+  - es
